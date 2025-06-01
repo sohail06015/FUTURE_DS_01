@@ -8,11 +8,11 @@ This project presents an interactive dashboard that analyzes social media trends
 ## Task
 Analyze trending topics on Twitter, Instagram, or LinkedIn to understand user interests and market shifts.
 
-##Skills Gained
-1. Web Scraping
-2.Natural Language Processing (NLP)
-3.Sentiment Analysis
-4.Data Visualization and Dashboard Design
+## Skills Gained
+- Web Scraping
+- Natural Language Processing (NLP)
+- Sentiment Analysis
+- Data Visualization and Dashboard Design
 
 ## Tools & Technologies Used
  1.Python: BeautifulSoup, Tweepy, TextBlob
