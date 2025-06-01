@@ -28,5 +28,5 @@ Analyze trending topics on Twitter, Instagram, or LinkedIn to understand user in
 
  ## Dashboard visual
  This dashboard is a powerful tool for businesses and marketers to monitor audience sentiment, identify emerging trends, and make data-driven decisions.
- <a href="https://github.com/sohail06015/FUTURE_DS_01/blob/main/Screenshot%202025-06-01%20165606.png"> Dashboard Screen </a>
- <a href="https://app.powerbi.com/view?r=eyJrIjoiYjFiYTg4YjMtNmM5NS00NDI3LWI4MWYtNjA4YjliZWFhNzIzIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D"> Dashboard Link </a>
+- <a href="https://github.com/sohail06015/FUTURE_DS_01/blob/main/Screenshot%202025-06-01%20165606.png"> Dashboard Screen </a>
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiYjFiYTg4YjMtNmM5NS00NDI3LWI4MWYtNjA4YjliZWFhNzIzIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D"> Dashboard Link </a>
