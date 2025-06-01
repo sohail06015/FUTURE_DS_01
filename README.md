@@ -3,7 +3,8 @@
 This project presents an interactive dashboard that analyzes social media trends across platforms like Twitter, Instagram, and Facebook. The goal is to extract meaningful insights from user interactions to help understand public sentiment, content popularity, and platform-wise engagement patterns.
 
 ## DataSet Used
-<a href= "https://github.com/sohail06015/FUTURE_DS_01/blob/main/sentimentdataset.csv"> DataSet </a>
+The Social Media Sentiments Analysis Dataset captures a vibrant tapestry of emotions, trends, and interactions across various social media platforms. This dataset provides a snapshot of user-generated content, encompassing text, timestamps, hashtags, countries, likes, and retweets. Each entry unveils unique stories—moments of surprise, excitement, admiration, thrill, contentment, and more—shared by individuals worldwide.
+- <a href= "https://github.com/sohail06015/FUTURE_DS_01/blob/main/sentimentdataset.csv"> DataSet </a>
 
 ## Task
 Analyze trending topics on Twitter, Instagram, or LinkedIn to understand user interests and market shifts.
