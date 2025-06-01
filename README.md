@@ -15,17 +15,18 @@ Analyze trending topics on Twitter, Instagram, or LinkedIn to understand user in
 - Data Visualization and Dashboard Design
 
 ## Tools & Technologies Used
- 1.Python: BeautifulSoup, Tweepy, TextBlob
- 2.Data Visualization: Power BI
- 3.Data Manipulation: Excel
+ - Python: BeautifulSoup, Tweepy, TextBlob
+ - Data Visualization: Power BI
+ - Data Manipulation: Excel
 
 ## Deliverable
- A Power BI dashboard visualizing:
- 1.Trending hashtags
- 2.User sentiment distribution
- 3.Platform-based activity and engagement
- 4.Country-wise and monthly trends
+ - Power BI dashboard visualizing:
+ - Trending hashtags
+ - User sentiment distribution
+ - Platform-based activity and engagement
+ - Country-wise and monthly trends
 
  ## Dashboard visual
  This dashboard is a powerful tool for businesses and marketers to monitor audience sentiment, identify emerging trends, and make data-driven decisions.
  <a href="https://github.com/sohail06015/FUTURE_DS_01/blob/main/Screenshot%202025-06-01%20165606.png"> Dashboard Screen </a>
+ <a href="https://app.powerbi.com/view?r=eyJrIjoiYjFiYTg4YjMtNmM5NS00NDI3LWI4MWYtNjA4YjliZWFhNzIzIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D"> Dashboard Link </a>
